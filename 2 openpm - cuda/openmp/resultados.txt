@@ -1,0 +1,760 @@
+resultados:
+* Imagen 720px:
+kernel = 3: 
+threads = 1
+Time taken: 0.2181s
+
+real	0m0.262s
+user	0m0.232s
+sys	0m0.016s
+
+threads = 2
+Time taken: 0.2268s
+
+real	0m0.254s
+user	0m0.248s
+sys	0m0.008s
+
+threads = 4
+Time taken: 0.2584s
+
+real	0m0.325s
+user	0m0.276s
+sys	0m0.016s
+
+threads = 8
+Time taken: 0.3059s
+
+real	0m0.278s
+user	0m0.332s
+sys	0m0.004s
+
+threads = 16
+Time taken: 0.2492s
+
+real	0m0.281s
+user	0m0.264s
+sys	0m0.016s
+
+kernel = 5: 
+threads = 1
+Time taken: 0.5387s
+
+real	0m0.571s
+user	0m0.564s
+sys	0m0.004s
+
+threads = 2
+Time taken: 0.5393s
+
+real	0m0.574s
+user	0m0.560s
+sys	0m0.012s
+
+threads = 4
+Time taken: 0.5227s
+
+real	0m0.539s
+user	0m0.544s
+sys	0m0.012s
+
+threads = 8
+Time taken: 0.5659s
+
+real	0m0.543s
+user	0m0.584s
+sys	0m0.012s
+
+threads = 16
+Time taken: 0.5082s
+
+real	0m0.541s
+user	0m0.536s
+sys	0m0.004s
+
+kernel = 7: 
+threads = 1
+Time taken: 1.4325s
+
+real	0m1.469s
+user	0m1.436s
+sys	0m0.032s
+
+threads = 2
+Time taken: 1.6587s
+
+real	0m1.707s
+user	0m1.704s
+sys	0m0.008s
+
+threads = 4
+Time taken: 1.4314s
+
+real	0m1.462s
+user	0m1.464s
+sys	0m0.020s
+
+threads = 8
+Time taken: 0.8843s
+
+real	0m0.855s
+user	0m0.904s
+sys	0m0.008s
+
+threads = 16
+Time taken: 0.8377s
+
+real	0m0.867s
+user	0m0.852s
+sys	0m0.012s
+
+kernel = 9: 
+threads = 1
+Time taken: 1.5522s
+
+real	0m1.583s
+user	0m1.572s
+sys	0m0.008s
+
+threads = 2
+Time taken: 1.4089s
+
+real	0m1.439s
+user	0m1.428s
+sys	0m0.012s
+
+threads = 4
+Time taken: 1.4533s
+
+real	0m1.470s
+user	0m1.464s
+sys	0m0.020s
+
+threads = 8
+Time taken: 1.5060s
+
+real	0m1.486s
+user	0m1.528s
+sys	0m0.012s
+
+threads = 16
+Time taken: 2.6613s
+
+real	0m2.738s
+user	0m2.688s
+sys	0m0.032s
+
+kernel = 11: 
+threads = 1
+Time taken: 2.7364s
+
+real	0m2.794s
+user	0m2.772s
+sys	0m0.020s
+
+threads = 2
+Time taken: 2.2794s
+
+real	0m2.310s
+user	0m2.308s
+sys	0m0.004s
+
+threads = 4
+Time taken: 2.1627s
+
+real	0m2.185s
+user	0m2.184s
+sys	0m0.016s
+
+threads = 8
+Time taken: 2.2780s
+
+real	0m2.242s
+user	0m2.304s
+sys	0m0.008s
+
+threads = 16
+Time taken: 2.2498s
+
+real	0m2.289s
+user	0m2.276s
+sys	0m0.008s
+
+kernel = 13: 
+threads = 1
+Time taken: 4.7153s
+
+real	0m4.754s
+user	0m4.744s
+sys	0m0.008s
+
+threads = 2
+Time taken: 4.9599s
+
+real	0m5.018s
+user	0m5.004s
+sys	0m0.016s
+
+threads = 4
+Time taken: 3.0665s
+
+real	0m3.085s
+user	0m3.084s
+sys	0m0.016s
+
+threads = 8
+Time taken: 3.1097s
+
+real	0m3.084s
+user	0m3.136s
+sys	0m0.008s
+
+threads = 16
+Time taken: 3.0404s
+
+real	0m3.075s
+user	0m3.064s
+sys	0m0.008s
+
+kernel = 15: 
+threads = 1
+Time taken: 5.3979s
+
+real	0m5.435s
+user	0m5.420s
+sys	0m0.012s
+
+threads = 2
+Time taken: 6.1237s
+
+real	0m6.185s
+user	0m6.172s
+sys	0m0.016s
+
+threads = 4
+Time taken: 5.3000s
+
+real	0m5.324s
+user	0m5.328s
+sys	0m0.012s
+
+threads = 8
+Time taken: 4.7583s
+
+real	0m4.726s
+user	0m4.808s
+sys	0m0.004s
+
+threads = 16
+Time taken: 5.6080s
+
+real	0m5.645s
+user	0m5.636s
+sys	0m0.008s
+
+* Imagen 1080px:
+kernel = 3: 
+threads = 1
+Time taken: 0.5710s
+
+real	0m0.620s
+user	0m0.592s
+sys	0m0.012s
+
+threads = 2
+Time taken: 0.5858s
+
+real	0m0.616s
+user	0m0.608s
+sys	0m0.012s
+
+threads = 4
+Time taken: 0.6051s
+
+real	0m0.624s
+user	0m0.628s
+sys	0m0.012s
+
+threads = 8
+Time taken: 0.6410s
+
+real	0m0.616s
+user	0m0.652s
+sys	0m0.024s
+
+threads = 16
+Time taken: 0.5741s
+
+real	0m0.609s
+user	0m0.592s
+sys	0m0.016s
+
+kernel = 5: 
+threads = 1
+Time taken: 2.0658s
+
+real	0m2.107s
+user	0m2.088s
+sys	0m0.012s
+
+threads = 2
+Time taken: 2.0179s
+
+real	0m2.067s
+user	0m2.048s
+sys	0m0.024s
+
+threads = 4
+Time taken: 1.2435s
+
+real	0m1.263s
+user	0m1.260s
+sys	0m0.020s
+
+threads = 8
+Time taken: 1.3183s
+
+real	0m1.291s
+user	0m1.332s
+sys	0m0.020s
+
+threads = 16
+Time taken: 1.2322s
+
+real	0m1.271s
+user	0m1.264s
+sys	0m0.004s
+
+kernel = 7: 
+threads = 1
+Time taken: 3.7301s
+
+real	0m3.797s
+user	0m3.756s
+sys	0m0.008s
+
+threads = 2
+Time taken: 2.3462s
+
+real	0m2.397s
+user	0m2.372s
+sys	0m0.028s
+
+threads = 4
+Time taken: 2.5373s
+
+real	0m2.554s
+user	0m2.544s
+sys	0m0.028s
+
+threads = 8
+Time taken: 3.6050s
+
+real	0m3.572s
+user	0m3.648s
+sys	0m0.012s
+
+threads = 16
+Time taken: 2.1893s
+
+real	0m2.225s
+user	0m2.208s
+sys	0m0.016s
+
+kernel = 9: 
+threads = 1
+Time taken: 4.7560s
+
+real	0m4.792s
+user	0m4.772s
+sys	0m0.016s
+
+threads = 2
+Time taken: 3.7262s
+
+real	0m3.776s
+user	0m3.752s
+sys	0m0.028s
+
+threads = 4
+Time taken: 5.1609s
+
+real	0m5.174s
+user	0m5.180s
+sys	0m0.012s
+
+threads = 8
+Time taken: 3.6073s
+
+real	0m3.582s
+user	0m3.632s
+sys	0m0.012s
+
+threads = 16
+Time taken: 6.2137s
+
+real	0m6.254s
+user	0m6.240s
+sys	0m0.008s
+
+kernel = 11: 
+threads = 1
+Time taken: 9.2942s
+
+real	0m9.368s
+user	0m9.348s
+sys	0m0.016s
+
+threads = 2
+Time taken: 5.8919s
+
+real	0m5.942s
+user	0m5.932s
+sys	0m0.016s
+
+threads = 4
+Time taken: 6.2023s
+
+real	0m6.246s
+user	0m6.236s
+sys	0m0.020s
+
+threads = 8
+Time taken: 6.7130s
+
+real	0m6.690s
+user	0m6.732s
+sys	0m0.016s
+
+threads = 16
+Time taken: 6.5566s
+
+real	0m6.594s
+user	0m6.576s
+sys	0m0.016s
+
+kernel = 13: 
+threads = 1
+Time taken: 8.9186s
+
+real	0m8.955s
+user	0m8.944s
+sys	0m0.008s
+
+threads = 2
+Time taken: 8.6695s
+
+real	0m8.700s
+user	0m8.688s
+sys	0m0.016s
+
+threads = 4
+Time taken: 8.5300s
+
+real	0m8.548s
+user	0m8.532s
+sys	0m0.032s
+
+threads = 8
+Time taken: 8.7194s
+
+real	0m8.690s
+user	0m8.732s
+sys	0m0.020s
+
+threads = 16
+Time taken: 8.7966s
+
+real	0m8.837s
+user	0m8.808s
+sys	0m0.024s
+
+kernel = 15: 
+threads = 1
+Time taken: 16.5506s
+
+real	0m16.608s
+user	0m16.572s
+sys	0m0.032s
+
+threads = 2
+Time taken: 15.4452s
+
+real	0m15.501s
+user	0m15.480s
+sys	0m0.024s
+
+threads = 4
+Time taken: 14.0623s
+
+real	0m14.073s
+user	0m14.096s
+sys	0m0.004s
+
+threads = 8
+Time taken: 12.5435s
+
+real	0m12.513s
+user	0m12.568s
+sys	0m0.036s
+
+threads = 16
+Time taken: 10.9440s
+
+real	0m11.002s
+user	0m10.984s
+sys	0m0.012s
+
+* Imagen 4k:
+kernel = 3: 
+threads = 1
+Time taken: 5.6220s
+
+real	0m5.744s
+user	0m5.620s
+sys	0m0.036s
+
+threads = 2
+Time taken: 4.6217s
+
+real	0m4.673s
+user	0m4.640s
+sys	0m0.036s
+
+threads = 4
+Time taken: 5.5478s
+
+real	0m5.579s
+user	0m5.572s
+sys	0m0.028s
+
+threads = 8
+Time taken: 5.7327s
+
+real	0m5.688s
+user	0m5.744s
+sys	0m0.024s
+
+threads = 16
+Time taken: 4.3386s
+
+real	0m4.396s
+user	0m4.360s
+sys	0m0.032s
+
+kernel = 5: 
+threads = 1
+Time taken: 12.0846s
+
+real	0m12.141s
+user	0m12.116s
+sys	0m0.020s
+
+threads = 2
+Time taken: 10.9292s
+
+real	0m10.962s
+user	0m10.948s
+sys	0m0.016s
+
+threads = 4
+Time taken: 11.8761s
+
+real	0m11.896s
+user	0m11.892s
+sys	0m0.020s
+
+threads = 8
+Time taken: 11.0481s
+
+real	0m11.019s
+user	0m11.080s
+sys	0m0.024s
+
+threads = 16
+Time taken: 11.4308s
+
+real	0m11.472s
+user	0m11.432s
+sys	0m0.032s
+
+kernel = 7: 
+threads = 1
+Time taken: 26.2158s
+
+real	0m26.275s
+user	0m26.228s
+sys	0m0.044s
+
+threads = 2
+Time taken: 24.5643s
+
+real	0m24.597s
+user	0m24.564s
+sys	0m0.036s
+
+threads = 4
+Time taken: 19.4417s
+
+real	0m19.459s
+user	0m19.460s
+sys	0m0.016s
+
+threads = 8
+Time taken: 21.1605s
+
+real	0m21.107s
+user	0m21.168s
+sys	0m0.028s
+
+threads = 16
+Time taken: 19.2708s
+
+real	0m19.312s
+user	0m19.292s
+sys	0m0.012s
+
+kernel = 9: 
+threads = 1
+Time taken: 35.1118s
+
+real	0m35.170s
+user	0m35.136s
+sys	0m0.028s
+
+threads = 2
+Time taken: 35.5999s
+
+real	0m35.635s
+user	0m35.608s
+sys	0m0.028s
+
+threads = 4
+Time taken: 34.3567s
+
+real	0m34.373s
+user	0m34.380s
+sys	0m0.012s
+
+threads = 8
+Time taken: 33.1741s
+
+real	0m33.148s
+user	0m33.200s
+sys	0m0.032s
+
+threads = 16
+Time taken: 32.0766s
+
+real	0m32.120s
+user	0m32.080s
+sys	0m0.032s
+
+kernel = 11: 
+threads = 1
+Time taken: 46.0389s
+
+real	0m46.077s
+user	0m46.048s
+sys	0m0.024s
+
+threads = 2
+Time taken: 54.5078s
+
+real	0m54.540s
+user	0m54.532s
+sys	0m0.008s
+
+threads = 4
+Time taken: 51.9127s
+
+real	0m51.930s
+user	0m51.928s
+sys	0m0.020s
+
+threads = 8
+Time taken: 52.5841s
+
+real	0m52.560s
+user	0m52.588s
+sys	0m0.032s
+
+threads = 16
+Time taken: 50.6657s
+
+real	0m50.714s
+user	0m50.656s
+sys	0m0.044s
+
+kernel = 13: 
+threads = 1
+Time taken: 62.0774s
+
+real	1m2.116s
+user	1m2.092s
+sys	0m0.020s
+
+threads = 2
+Time taken: 70.8464s
+
+real	1m10.880s
+user	1m10.848s
+sys	0m0.032s
+
+threads = 4
+Time taken: 69.0711s
+
+real	1m9.095s
+user	1m9.096s
+sys	0m0.012s
+
+threads = 8
+Time taken: 70.4616s
+
+real	1m10.448s
+user	1m10.444s
+sys	0m0.072s
+
+threads = 16
+Time taken: 72.6767s
+
+real	1m12.720s
+user	1m12.668s
+sys	0m0.044s
+
+kernel = 15: 
+threads = 1
+Time taken: 83.5353s
+
+real	1m23.577s
+user	1m23.548s
+sys	0m0.024s
+
+threads = 2
+Time taken: 104.9986s
+
+real	1m45.051s
+user	1m45.000s
+sys	0m0.052s
+
+threads = 4
+Time taken: 95.8907s
+
+real	1m35.923s
+user	1m35.928s
+sys	0m0.016s
+
+threads = 8
+Time taken: 93.4465s
+
+real	1m33.444s
+user	1m33.448s
+sys	0m0.032s
+
+threads = 16
+Time taken: 100.3869s
+
+real	1m40.451s
+user	1m40.392s
+sys	0m0.028s
+

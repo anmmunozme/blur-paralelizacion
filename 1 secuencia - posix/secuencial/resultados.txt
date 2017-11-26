@@ -1,0 +1,130 @@
+resultados:
+* Imagen 720px:
+kernel = 3: 
+
+real	0m0.251s
+user	0m0.240s
+sys	0m0.008s
+
+kernel = 5: 
+
+real	0m0.480s
+user	0m0.468s
+sys	0m0.008s
+
+kernel = 7: 
+
+real	0m0.901s
+user	0m0.888s
+sys	0m0.012s
+
+kernel = 9: 
+
+real	0m1.472s
+user	0m1.464s
+sys	0m0.004s
+
+kernel = 11: 
+
+real	0m2.047s
+user	0m2.000s
+sys	0m0.016s
+
+kernel = 13: 
+
+real	0m3.945s
+user	0m3.932s
+sys	0m0.008s
+
+kernel = 15: 
+
+real	0m4.598s
+user	0m4.584s
+sys	0m0.012s
+
+* Imagen 1080px:
+kernel = 3: 
+
+real	0m0.608s
+user	0m0.600s
+sys	0m0.008s
+
+kernel = 5: 
+
+real	0m1.157s
+user	0m1.148s
+sys	0m0.008s
+
+kernel = 7: 
+
+real	0m2.124s
+user	0m2.104s
+sys	0m0.020s
+
+kernel = 9: 
+
+real	0m3.337s
+user	0m3.324s
+sys	0m0.012s
+
+kernel = 11: 
+
+real	0m4.643s
+user	0m4.632s
+sys	0m0.008s
+
+kernel = 13: 
+
+real	0m8.251s
+user	0m8.208s
+sys	0m0.024s
+
+kernel = 15: 
+
+real	0m12.353s
+user	0m12.328s
+sys	0m0.024s
+
+* Imagen 4k:
+kernel = 3: 
+
+real	0m4.289s
+user	0m4.248s
+sys	0m0.036s
+
+kernel = 5: 
+
+real	0m8.817s
+user	0m8.784s
+sys	0m0.028s
+
+kernel = 7: 
+
+real	0m18.331s
+user	0m18.296s
+sys	0m0.032s
+
+kernel = 9: 
+
+real	0m31.472s
+user	0m31.432s
+sys	0m0.036s
+
+kernel = 11: 
+
+real	0m44.778s
+user	0m44.752s
+sys	0m0.020s
+
+kernel = 13: 
+
+real	1m1.467s
+user	1m1.432s
+sys	0m0.028s
+
+kernel = 15: 
+
+real	1m29.282s
+user	1m29.156s
+sys	0m0.116s
+
