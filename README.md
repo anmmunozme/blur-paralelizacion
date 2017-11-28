@@ -17,13 +17,16 @@ Cada implementación fue probada con imágenes de 720p, 1080p y 4K, variandoel k
 Se puedieron ver cambios significativos en el tiempo de procesamiento de las imágenes entre cada herramienta de paralelización, aunque el tipo de máquina usada puede mejorar o hacer peor el rendimiento.
 
 Construido con
+
     - OpenCV
     - Lenguaje de programación C++
 
 Autores
+
     -   Ángela María Muñoz Medina
     -   Juan Esteban Caicedo Palacio
 
 Agradecimientos
+
     -   César Pedraza - Profesor
     -   Departamento de Ingeniería de Sistemas 
